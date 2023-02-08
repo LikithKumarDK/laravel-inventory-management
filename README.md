@@ -1,1 +1,1 @@
-# laravel-inventory-management test
+# laravel-inventory-management
