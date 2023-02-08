@@ -1,1 +1,1 @@
-# laravel-inventory-management fff
+# laravel-inventory-management
